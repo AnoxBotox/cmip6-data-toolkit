@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data & Large Files
+*.nc
+*.nc4
+*.cdf
+*.hdf
+*.h5
+*.he5
+data/
+raw_data/
+subset/
+CMIP6_Data/
+*.grib
+*.tar.gz
+*.zip
+
+# Environment & Virtualenvs
+.venv/
+venv/
+ENV/
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+*.egg-info/
+
+# Streamlit Local Config & Secrets
+.streamlit/secrets.toml
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
