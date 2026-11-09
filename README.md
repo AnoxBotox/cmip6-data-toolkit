@@ -27,7 +27,7 @@ Developed by **Avishek Acharya**
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/avishek-acharya/cmip6-data-toolkit.git
+git clone https://github.com/AnoxBotox/cmip6-data-toolkit.git 
 cd cmip6-data-toolkit
 ```
 
